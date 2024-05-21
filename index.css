@@ -26,7 +26,7 @@ p {
 }
 
 .image-container img {
-    max-width: 100%; /* The image will not be wider than its container */
+    max-width: 100px; /* The image will not be wider than its container */
     max-height: 300px; /* The image will not be taller than 300 pixels */
     height: auto; /* Maintains the aspect ratio */
 }
