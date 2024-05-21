@@ -1,8 +1,11 @@
 body {
+    background-color: black;
+}
+
+.image-container {
     display: flex;
     height: 100vh;
     margin: 0;
-    background-color: black;
 }
 
 p {
