@@ -1,3 +1,10 @@
+/* Define the custom font using @font-face */
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('fonts/BossaNovaMVBStd.ttf') format('ttf'),
+         /*url('fonts/MyCustomFont.woff') format('woff');*/
+}
+
 body {
     background-color: black;
     font-family: Arial, sans-serif;
@@ -7,7 +14,10 @@ body {
 
 p {
     color: white;
+    font-family: ;
 }
+
+
 
 .presentation {
     padding: 20px;
