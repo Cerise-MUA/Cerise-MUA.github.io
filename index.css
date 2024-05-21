@@ -1,8 +1,7 @@
 /* Define the custom font using @font-face */
 @font-face {
     font-family: 'MyCustomFont';
-    src: url('fonts/BossaNovaMVBStd.ttf') format('ttf'),
-         /*url('fonts/MyCustomFont.woff') format('woff');*/
+    src: url('fonts/BossaNovaMVBStd.ttf') format('ttf');
 }
 
 body {
@@ -43,3 +42,4 @@ p {
     margin: 10px;
     box-sizing: border-box;
 }
+
