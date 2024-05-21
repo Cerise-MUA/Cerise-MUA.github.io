@@ -12,3 +12,13 @@ p {
     color: white;
 }
 
+.presentation {
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+}
+
+.presentation p {
+    margin: 10px 0;
+}
+
