@@ -25,17 +25,3 @@ p {
     flex: 1;
 }
 
-.image-container {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    width: 90%; /* Container width relative to the viewport */
-    max-width: 1200px; /* Optional: Max width to prevent it from becoming too wide on large screens */
-    margin: auto;
-}
-
-.image-container img {
-    width: 30%; /* Each image takes up 30% of the container's width */
-    height: auto; /* Maintains the aspect ratio */
-    margin: 0 10px;
-}
