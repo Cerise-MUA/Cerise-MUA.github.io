@@ -34,7 +34,7 @@ p {
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px;
-    background-color: #fff;
+    background-color: darkgray;
 }
 
 .image-container  img {
